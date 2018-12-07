@@ -66,8 +66,6 @@ tags:
 5. 查看响应的前两部分
 6. 查看 Response 或者 Preview，你会看到响应的第 4 部分
 
-![http图示](../public/images/http.png)
-
 ### 5、如何使用 curl 命令？
 - `Curl`是Linux下一个很强大的http命令行工具。
 - curl的基本用途：创造一个请求，并得到响应，主要如下图：
