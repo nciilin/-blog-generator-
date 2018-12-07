@@ -17,16 +17,14 @@ tags:
 
 5. 如何使用 curl 命令？
 
-### 1 HTTP是什么?
+### 1、HTTP是什么?
 
 - `HTTP` 全称：HyperText Transfer Protocol，即超文本传输协议[HTTP](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)的作用。
 
 - `HTTP作用` : 指导浏览器和服务器之间进行沟通。
 
-### 2 HTTP 请求包括哪些部分？
-
+### 2、HTTP 请求包括哪些部分？
 - HTTP请求主要包括四部分（第四部分可以为空），主要格式如下：
-
 > 1 动词 路径 协议/版本
 > 2 Key1: value1
 > 2 Key2: value2
@@ -38,9 +36,7 @@ tags:
 > 4 要上传的数据 
 
 ### 3、HTTP 响应包括哪些部分？
-
 - HTTP响应主要包括四部分（第四部分可以为空），主要格式如下：
-
 > 1 协议/版本号 状态码 状态解释
 > 2 Key1: value1
 > 2 Key2: value2
